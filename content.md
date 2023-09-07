@@ -33,11 +33,11 @@ The general steps for working on most projects for this course are:
     ![](https://res.cloudinary.com/dmxgp9oq2/image/upload/v1680218006/codespace-setup-7_onufud.png)
     {: .bleed-full }
 
-2. As you work, remember to use **Git source control** and **Always Be Committing (ABC)**. Also periodically push your work to GitHub so it is saved there. [See more details on our git workflow here](https://learn.firstdraft.com/lessons/50).
+2. As you work, remember to use **Git source control** and **Always Be Committing (ABC)**. Also periodically push your work to GitHub so it is saved there. [See more details on our git workflow here](https://learn.firstdraft.com/lessons/50-git-commit-and-push).
 
 3. Keep your browser tabs organized: lesson, workspace, live preview, target, and a tab for grading results.
 
-4. Run `rake grade` as often as you like at a bash prompt to see how you are doing, but make sure you *test your app manually first* to make sure it matches the target's behavior. [See more details about `rake grade` in this lesson](https://learn.firstdraft.com/lessons/125).
+4. Run `rake grade` as often as you like at a bash prompt to see how you are doing, but make sure you *test your app manually first* to make sure it matches the target's behavior. [See more details about `rake grade` in this lesson](https://learn.firstdraft.com/lessons/125-using-rake-grade).
 
 You will become very comfortable with these steps while working on several projects for the course.
 
@@ -91,9 +91,9 @@ On the next screen, select 4-core and then "Update codespace":
 
 ## Sharing a Codespace Snapshot
 
-With Codespaces, we don't have the ability to [share Gitpod snapshots](https://learn.firstdraft.com/lessons/48#sharing-a-gitpod-snapshot) for instructor feedback and debugging. But there's an (even better!) alternative, with Git commits!
+With Codespaces, we don't have the ability to [share Gitpod snapshots](https://learn.firstdraft.com/lessons/48-gitpod-setup#sharing-a-gitpod-snapshot) for instructor feedback and debugging. But there's an (even better!) alternative, with Git commits!
 
-Simply follow the [instructions in this lesson](https://learn.firstdraft.com/lessons/50) to make a new commit with your broken code. For the commit message, use **Broken code snapshot X** with X replaced by the number of times you are asking for help on a project (e.g., **Broken code snapshot 1**, **Broken code snapshot 2**, etc.). Be sure to also push the commit to publish it on GitHub with the "Sync" button.
+Simply follow the [instructions in this lesson](https://learn.firstdraft.com/lessons/50-git-commit-and-push) to make a new commit with your broken code. For the commit message, use **Broken code snapshot X** with X replaced by the number of times you are asking for help on a project (e.g., **Broken code snapshot 1**, **Broken code snapshot 2**, etc.). Be sure to also push the commit to publish it on GitHub with the "Sync" button.
 
 Now you can just send the instructor the URL of your GitHub repository (i.e., your fork of the project at `github.com/<your-username>/<project-name>`) along with the commit message, and we can browse your code at that point in time and try to provide helpful suggestions. 
 

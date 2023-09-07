@@ -1,3 +1,3 @@
 # codespaces-setup
 
-https://learn.firstdraft.com/lessons/47
+https://learn.firstdraft.com/lessons/47-codespaces-setup
