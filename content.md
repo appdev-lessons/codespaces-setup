@@ -44,7 +44,7 @@ You will become very comfortable with these steps while working on several proje
 
 Remember to keep the codespace and live application browser tabs open as you work. If you close the workspace window, you can always navigate to [github.com/codespaces](https://github.com/codespaces) to reopen it.
 
-To close a workspace just navigate to [github.com/codespaces](https://github.com/codespaces), scroll down to find the codespace you want to stop, click the `...` menu, and select "Stop codespace". Reopen the codespace by clicking the `...` menu again, and selecting "Open in ..." then "Open in browser":
+To close a workspace just navigate to [github.com/codespaces](https://github.com/codespaces), scroll down to find the codespace you want to stop, click the `...` menu, and select "Stop codespace". Reopen the codespace by clicking the `...` menu again, and selecting "Open in browser":
 
 ![](/assets/manage-codespaces.png)
 {: .bleed-full }
