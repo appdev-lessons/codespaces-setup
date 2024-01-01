@@ -44,17 +44,12 @@ You will become very comfortable with these steps while working on several proje
 
 Remember to keep the codespace and live application browser tabs open as you work. If you close the workspace window, you can always navigate to [github.com/codespaces](https://github.com/codespaces) to reopen it.
 
-To close a workspace just navigate to [github.com/codespaces](https://github.com/codespaces), scroll down to find the codespace you want to stop, click the `...` menu, and select "Stop codespace":
+To close a workspace just navigate to [github.com/codespaces](https://github.com/codespaces), scroll down to find the codespace you want to stop, click the `...` menu, and select "Stop codespace". Reopen the codespace by clicking the `...` menu again, and selecting "Open in browser":
 
-<!-- ![](/assets/codespace-setup-8.png) -->
-![](https://res.cloudinary.com/dmxgp9oq2/image/upload/v1680218015/codespace-setup-8_smibgz.png)
+![](/assets/manage-codespaces.png)
 {: .bleed-full }
 
-Reopen the codespace by clicking the `...` menu again, and selecting "Open in ..." then "Open in browser":
-
-<!-- ![](/assets/codespace-setup-9.png) -->
-![](https://res.cloudinary.com/dmxgp9oq2/image/upload/v1680218038/codespace-setup-9_tddgdj.png)
-{: .bleed-full }
+In this same management menu, you can also un-check the "Auto-delete codespace" option to prevent deletion of the codespace after 30 days of inactivity. But, **as long as you are making git commits and pushing your work to save your progress**, you can always spin up a new codespace directly from the GitHub repository if your current codespace gets deleted.
 
 ## Increasing cores on a codespace
 
